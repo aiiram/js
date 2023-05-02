@@ -1,6 +1,10 @@
-const name='Mariia'
-console.log(name);
-let age=23
-console.log(age);
-const dish='Barbecue'
-console.log(dish);
+const name = 'Mariia'
+const nameCat = 'Shab'
+
+console.log(`Cześć, jestem ${name} a to jest ${nameCat} - mój kot`);
+
+let age = 5
+console.log(nameCat + ' ma już ' + age + ' lat');
+
+
+/*console.log(`${nameCat} ma już ${age} lat!`)*/
